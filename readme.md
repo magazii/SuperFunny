@@ -1,13 +1,15 @@
-<h1>To use this TOKEN JOINER follow this steps</h1>
-Step 1.first Copy your tokens and paste in "tokens.txt".
-Step 2.then press play button.
-Step 3.now select and option.
-Step 4.then paste your server link only last 10 digit not https://discord.gg/ like pNnZCKnuCf paste like this.
-then see what is the result if there are all tokens has been joined it mean all tokens has been joined
-if there are tokens are not verified it means your token is not verified
-Etceteras and you can join my discord server :- https://discord.gg/WjKgRE4uPx
+![imagen](https://user-images.githubusercontent.com/132322045/235575651-6a88ffec-39db-491b-99bd-d4675190d8d1.png) **Made By Magazi**
+<h1>HOW TO USE</h1>
 
-MADE BY #HACKER BLACK KING
-##########COPYRIGHTED™ since 2021###############DON'T COPY IT
-YOU CAN USE IT BUT YOU CAN'T UPLOAD IT BY REPLACE YOUR NAME WITH MY NAME
-####################################################################
+```
+
+ 1. Open the setup.bat, it will install all the nesessary things 
+ 2. Open the SuperFunny.cmd, is the .bat that you will need to open the .exe (Because the .exe is a console convert to .exe)
+ 3. Have Funn (Dont abuse on the bin gen, it can break the server tmp chain).
+  
+```
+
+<h2> MADE BY MAGAZI </h2>
+
+- [Github](https://github.com/SadicX)
+- [Discord](https://discord.gg/noxius)
